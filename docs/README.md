@@ -1,5 +1,5 @@
 <p align="center">
-  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/khampagar/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/khampagar/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/khampagar/sungbum">ཁམས་པ་སྒར་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/khampagar/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/khampagar/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/khampagar/natsok">སྣ་ཚོགས།</a></p>
+  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/khampagar/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/khampagar/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/khampagar/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/khampagar/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/khampagar/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/khampagar/natsok">སྣ་ཚོགས།</a></p>
 
 # ཁམས་པ་སྒར་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
